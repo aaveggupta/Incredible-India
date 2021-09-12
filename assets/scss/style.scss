@@ -213,6 +213,10 @@ img {
   width: 150px;
   color: white;
   font-size: 0.8rem;
+
+  @media screen and(max-width: 768px){
+    display: none;
+}
 }
 
 

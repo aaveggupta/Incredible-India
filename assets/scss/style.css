@@ -240,6 +240,12 @@ img {
   font-size: 0.8rem;
 }
 
+@media screen and (max-width: 768px) {
+  .bottom {
+    display: none;
+  }
+}
+
 /*========== MEDIA QUERIES ==========*/
 /* For small devices */
 @media screen and (max-width: 400px) {

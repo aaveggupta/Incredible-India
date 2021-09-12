@@ -1,5 +1,5 @@
 # Fashion Gallery
-In this project, I have designed and implemented the gallery UI which is minimal and clean! I got to know more powers of flex-properties, and how to implement neomorphic designs! 🚀
+In this project, I have designed and implemented the indian tourism hero page which is minimal and clean!! 🚀
 
 
 ### Screenshot
